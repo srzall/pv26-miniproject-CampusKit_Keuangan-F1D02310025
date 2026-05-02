@@ -11,4 +11,14 @@ Aplikasi ini mendukung operasi CRUD (Create, Read, Update, Delete) secara penuh 
 * **Database:** SQLite3 (Persisten)
 * **Styling:** QSS (Qt Style Sheets) eksternal
 
+## Cara Menjalankan Aplikasi
 
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi di komputer Anda:
+
+1. **Pastikan Python sudah terinstal**
+   Pastikan Anda sudah menginstal Python versi 3.x di komputer Anda.
+
+2. **Clone / Unduh Repository**
+   Silakan *clone* repository ini atau unduh sebagai `.zip` dan ekstrak di komputer Anda.
+   ```bash
+   git clone [https://github.com/username-anda/pv26-miniproject-keuangan-F1D02310025.git](https://github.com/username-anda/pv26-miniproject-keuangan-F1D02310025.git)
